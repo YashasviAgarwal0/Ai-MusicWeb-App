@@ -1,0 +1,27 @@
+body
+{
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-size: cover;
+}
+
+h3
+{
+    background-color: orange;
+    padding: 20px;
+    margin: 0;
+}
+
+canvas
+{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin-top: 140px;
+}
+
+.btn-danger
+{
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+}
